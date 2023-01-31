@@ -1,11 +1,11 @@
 title: Brandon Watts # your name (or website title) here
-logo: "/images/Profile Picture.png " # your photo (or logo) here
+logo: "/images/profilepicture.png " # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
   Dedicated and knowledgeable Marine Corps Veteran with ten years of work experience. Strong desire to produce quality work to meet organizational goals and achieve business success. Capable of working alone and as a member of a team. Comfortable taking the initiative to solve complex problems as they arise in an ever-changing work environment. 
   <br><br>
   Second description 
   <br><br>
-  www.linkedin.com/in/brandon-w-505132133 
+  www.linkedin.com/in/brandon-w-505132133
   
 theme: jekyll-theme-minimal
 google_analytics: UA-000000-0 # your Google Analytics tracking ID here
