@@ -8,12 +8,12 @@
 <img src="images/VacancyStatus.pdf"/>
 
 ---
-[Nashville, Tennessee Crime Rate: Is it safe?]
+Nashville, Tennessee Crime Rate: Is it safe?
 <img src="images/NashvilleCrime.pdf"/>
 
 ---
-[Project 3 Title](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+Davidson County Tennessee Crime Density
+<img src="images/CrimeDensity.png"/>
 
 ---
 
