@@ -12,10 +12,6 @@ Nashville, Tennessee Crime Rate: Is it safe?
 <img src="images/NashvilleCrime.pdf"/>
 
 ---
-Davidson County Tennessee Crime Density
-<img src="images/CrimeDensity.png"/>
-
----
 
 ### Professional Projects
 
