@@ -15,7 +15,7 @@ Nashville, Tennessee Crime Rate: Is it safe?
 
 ### Professional Projects
 
-- [2019 Southeastern U.S. Airports]
+- 2019 Southeastern U.S. Airports
 - <img src="images/Map1.png"/>
 - [Project 2 Title](http://example.com/)
 - 
