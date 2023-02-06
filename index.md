@@ -4,7 +4,7 @@
 
 ### Academic Projects 
 
-[2020 Total House Vacancy Status by Census Block Cleveland County, OK](/sample_page)
+[2020 Total House Vacancy Status by Census Block Cleveland County, OK]
 <img src="images/VacancyStatus.pdf"/>
 
 ---
