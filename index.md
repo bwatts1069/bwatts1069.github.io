@@ -8,8 +8,8 @@
 <img src="images/VacancyStatus.pdf"/>
 
 ---
-[Project 2 Title](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Nashville, Tennessee Crime Rate: Is it safe?]
+<img src="images/NashvilleCrime.pdf"/>
 
 ---
 [Project 3 Title](http://example.com/)
