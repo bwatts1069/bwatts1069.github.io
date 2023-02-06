@@ -1,11 +1,11 @@
-## Portfolio
+## Geospatial Project Portfolio
 
 ---
 
-### Category Name 1 
+### Academic Projects 
 
-[Project 1 Title](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[2020 Total House Vacancy Status by Census Block Cleveland County, OK](/sample_page)
+<img src="images/VacancyStatus.pdf"/>
 
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
@@ -17,7 +17,7 @@
 
 ---
 
-### Category Name 2
+### Professional Projects
 
 - [Project 1 Title](http://example.com/)
 - [Project 2 Title](http://example.com/)
