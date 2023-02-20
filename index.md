@@ -12,9 +12,7 @@ Nashville, Tennessee Crime Rate: Is it safe?
 <img src="images/NashvilleCrime.pdf"/>
 
 ---
-Crime Analysis of Davidson County, Tennessee
-<img src="images/DavidsonCrime.png"/>
-"[https://arcg.is/04X1T0]"
+[![Crime Analysis of Davidson County, Tennessee](images/DavidsonCrime.png)](https://arcg.is/04X1T0)
 
 ### Professional Projects
 
