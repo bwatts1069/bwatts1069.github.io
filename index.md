@@ -16,7 +16,7 @@ Nashville, Tennessee Crime Rate: Is it safe?
 
 ---
 
-(https://brandonreid069.users.earthengine.app/view/california-fire-monitoring)
+[![Calirfornia Fire Monitoring](images/FireMonitoring.png)](https://brandonreid069.users.earthengine.app/view/california-fire-monitoring)
 
 ### Professional Projects
 
